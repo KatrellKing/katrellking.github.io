@@ -1,0 +1,16 @@
+name: "My Website"
+navbar:
+  title: "Katrell King"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Education"
+      href: education.html
+    - text: "Extracurricular Activities"
+      href: extracurriculars.html
+    - text: "Relevant Classes"
+      href: classes.html
+    - text: "Work and Leadership"
+      href: work_leadership.html
