@@ -1,9 +1,9 @@
 ---
-title: "Home Page"
-author: "Katrell King"
-date: "2023-12-01"
+title: "Home"
 output: html_document
 ---
 
-Hello! My name is Katrell.
+Hello! My name is Katrell King and I am a third-year student at the University of Miami.<br/> 
+
+</p>This website is a deconstructed version of my most updated resume, and I created this site as a part of a final project for a workshop in R Programming. </p>
 

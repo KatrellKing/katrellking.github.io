@@ -1,6 +1,23 @@
 ---
 title: "Education"
-
 ---
 
-UMIami
+University of Miami <br/>
+
+May 2025<br/>
+<p>
+Bachelor of Arts, <i>Marine Affairs, Ecosystem Science and Policy, French</i><br/>
+GPA: 3.81/4.0 </p>
+
+<p><b>Relevant Coursework:</b><br/>
+<ul>
+  <li>Environmental Statistics</li>
+  <li>Introduction to Environmental Policy</li>
+  <li>Introduction to Marine Biology</li>
+  <li>General Biology/ Evolution and Biodiversity</li>
+  <li>Principles of Microeconomics</li>
+  <li>Physical and Chemical Processes in Coastal Ecosystems</li>
+  <li>Social Research Methods for Ecosystem Science and Policy</li>
+</ul>
+<p/>
+

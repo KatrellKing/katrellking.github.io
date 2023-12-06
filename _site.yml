@@ -4,13 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
     - text: "Education"
-      href: education.html
-    - text: "Extracurricular Activities"
-      href: extracurriculars.html
-    - text: "Relevant Classes"
-      href: classes.html
+      href: education.html   
     - text: "Work and Leadership"
       href: work_leadership.html
+    - text: "Extracurricular Activities"
+      href: activities.html   
+    - text: "Skills and Interests"
+      href: skills_interests.html
+
